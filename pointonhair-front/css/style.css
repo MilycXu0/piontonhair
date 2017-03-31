@@ -1,0 +1,66 @@
+.carousel .item img{
+  width: 100%;
+  margin-left: 00%;
+}
+.carousel{
+	margin-bottom: 50px;
+}
+.tab-imgs .row{
+	padding: 50px;
+}
+.tab-imgs p{ 
+	text-indent: 2em;
+}
+#bs-example-navbar-collapse-1 ul.navbar-nav{
+	width: 70%;
+}
+
+.main .tab-content li{
+	list-style: none;
+	padding:20px;
+}
+.clear{clear: both;}
+
+.news ul.row{
+	list-style: none;
+}
+.news ul li a{
+	color:#444;
+	display:block;
+	text-align:center;
+	margin-left:-15px;
+	height:24px;
+	line-height:24px;
+	font-size:16px;
+}
+.news ul li a:hover{
+	text-decoration: underline;
+	color:#d81d1d;
+}
+footer{
+	background: #d1d1d1;
+	display: block;
+	padding:20px 0;
+	text-align: center;
+}
+
+.contain{
+	margin:100px 15px;
+}
+.contain h1{
+	text-align: center;
+}
+.contain .news span{
+	float: right;
+	display: block;
+}
+.contain .hairstyle{
+	margin: 0px 10px;
+}
+.contain .hairstyle img{
+	margin: 0px auto;
+}
+.contain .hairstyle span{
+	margin: 0px 20px;
+	text-indent: 32px;
+}
