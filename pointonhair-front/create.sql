@@ -4,6 +4,7 @@ CREATE TABLE `hairstyle` (
   `hairtype` int(1) NOT NULL COMMENT '0直发类发型1卷发类发型2束发类发型3短发类发型',
   `hairsex` int(1) NOT NULL COMMENT '0男1女',
   `hairimg` text NOT NULL
+  'hairintroduce' text NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 CREATE TABLE `news` (
